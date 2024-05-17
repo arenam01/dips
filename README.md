@@ -1,2 +1,2 @@
 # dips
-A collection of dip recipes. 
+A collection of dip recipes.
